@@ -1,0 +1,8 @@
+{
+  "name": "MindList",
+  "description": "A study-first AI learning workspace featuring infinite whiteboards, AI-generated mind maps, and node-specific educational content generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
